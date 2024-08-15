@@ -1,4 +1,4 @@
-```
+```py
 $ rizenfetch
       /\         rizen@archlinux
      /  \        ---------------
