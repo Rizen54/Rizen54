@@ -2,7 +2,7 @@
 $ rizenfetch
       /\         rizen@archlinux
      /  \        ---------------
-    /\   \       Data: ["15", "Male", "Indian"]
+    /\   \       Data: ["16", "Male", "Indian"]
    /      \      Uptime: "I do have a proper sleep schedule"
   /   ,,   \     Skills: "Python... that's all for now."
  /   |  |  -\    Interests: ["Coding", "Pixel art", "Machines"]
