@@ -1,6 +1,6 @@
 ## Socials
-https://img.shields.io/badge/psatvik54-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white https://img.shields.io/badge/rizen07-5865F2?style=for-the-badge&logo=discord&logoColor=white https://img.shields.io/badge/Light Weeny-FF4500?style=for-the-badge&logo=reddit&logoColor=white
-
+![image]({https://img.shields.io/badge/psatvik54-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white}) ![image]({https://img.shields.io/badge/rizen07-5865F2?style=for-the-badge&logo=discord&logoColor=white}) ![image]({https://img.shields.io/badge/Light%20Weeny-FF4500?style=for-the-badge&logo=reddit&logoColor=white
+})
 ## Hey there! I'm Rizen 👋
 - 📚 Currently at high school.
 - ⚡ Building CLI and Web apps.
