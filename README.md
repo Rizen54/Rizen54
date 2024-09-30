@@ -5,7 +5,7 @@
 ## Hey there! I'm Rizen 👋
 - 📚 Currently at high school.
 - ⚡ Building CLI and Web apps.
-- 🔋 Currently working on my fetch utlity: [richfetch](https://github.com/Rizen54/richfetch)
+- 🔋 Currently working on my weather fetch utlity: [richweather](https://github.com/Rizen54/richweather)
 
 ## 🛠️ Tools:
 - 💻 Arch Linux
