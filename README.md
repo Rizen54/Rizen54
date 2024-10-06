@@ -5,7 +5,7 @@
 ## Hey there! I'm Rizen 👋
 - 📚 Currently at high school.
 - ⚡ Building CLI and Web apps.
-- 🔋 Currently working on my weather fetch utlity: [richweather](https://github.com/Rizen54/richweather)
+- 🔋 Currently working on my color palette visualiser: [richcolors](https://github.com/Rizen54/richcolors)
 - 💬 My Discord server if you're interested in my projs: [Rizen's Server](https://discord.gg/BSCkxtxNJ6)
 
 ## 🛠️ Tools:
