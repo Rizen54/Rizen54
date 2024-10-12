@@ -13,3 +13,6 @@
 - 🖼️ i3
 - 📟 Alacritty
 - ✍️ VSCode, nvim
+
+## Flex
+<img src="Images/sample.png" alt="Sample Image" width="300">
