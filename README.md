@@ -15,4 +15,4 @@
 - ✍️ VSCode, nvim
 
 ## Flex
-<img src="Images/sample.png" alt="Sample Image" width="300">
+<img src="hacktoberfest2024.png" alt="hacktoberfest2024.png" width="300">
