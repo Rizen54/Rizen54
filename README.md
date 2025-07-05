@@ -6,8 +6,8 @@
 
 ## Hey there! I'm Rizen 👋
 - 📚 Currently at high school.
-- ⚡ Building CLI apps.
-- 🔋 Currently working on improving the lives of terminal users.
+- ⚡ Maintaining my discord bot.
+- 🔋 Currently learning JS.
 - 💬 My Discord server if you're interested in my projs: [Rizen's Server](https://discord.gg/BSCkxtxNJ6)
 
 ## 🛠️ Tools:
