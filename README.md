@@ -7,8 +7,7 @@
 ## Hey there! I'm Rizen 👋
 - 📚 Currently at high school.
 - ⚡ Maintaining my discord bot.
-- 🔋 Currently learning JS.
-- 💬 My Discord server if you're interested in my projs: [Rizen's Server](https://discord.gg/BSCkxtxNJ6)
+- ⚠ Inactive for a while due to academics.
 
 ## 🛠️ Tools:
 - 💻 Arch Linux
