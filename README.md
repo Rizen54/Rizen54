@@ -1,5 +1,6 @@
 > I make raw software
-pls crop it
+
+<img src="saturn-cropped.png" alt="saturn-cropped.png" width="300">
 
 ## Socials
 
