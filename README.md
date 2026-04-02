@@ -1,6 +1,6 @@
 > I make raw software
 
-<img src="saturn-cropped.png" alt="saturn-cropped.png" width="300">
+<img src="saturn-cropped.png" alt="saturn-cropped.png" width="100%">
 
 ## Socials
 
